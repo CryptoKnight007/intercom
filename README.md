@@ -79,3 +79,10 @@ Intercom is a single long-running Pear process that participates in three distin
 
 ---
 If you plan to build your own app, study the existing contract/protocol and remove example logic as needed (see `SKILL.md`).
+
+## Competition Entry
+
+TRAC Address:
+trac1xlf27u40rd7yvdccsqmrkawzt2c6gs2yyj2r3cms5rsyadawqd7sxc56d6
+
+Fork by CryptoKnight007
