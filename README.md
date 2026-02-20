@@ -98,7 +98,9 @@ node intermatch.js
 ---
 
 ## 📊 Example Engine Output
+### Engine Execution Screenshot
 
+![Engine Output](engine_output.png)
 When executed:
 
 ```
