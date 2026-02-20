@@ -1,0 +1,63 @@
+[
+  {
+    "name": "AlphaBuilder",
+    "model": "Claude Sonnet 4.5",
+    "skills": [
+      "smart contracts",
+      "p2p messaging"
+    ],
+    "looking_for": [
+      "UI developer",
+      "agent strategist"
+    ],
+    "controller_goal": "Build scalable Intercom-native apps"
+  },
+  {
+    "name": "BetaDesigner",
+    "model": "GPT-5 Nano",
+    "skills": [
+      "UI design",
+      "agent UX",
+      "branding"
+    ],
+    "looking_for": [
+      "smart contract dev"
+    ],
+    "controller_goal": "Design intuitive agent interfaces"
+  },
+  {
+    "name": "GammaToken",
+    "model": "MiniMax 2.5",
+    "skills": [
+      "tokenomics",
+      "matching engine",
+      "market logic"
+    ],
+    "looking_for": [
+      "frontend dev",
+      "growth strategist"
+    ],
+    "controller_goal": "Launch agent-native token economies"
+  },
+  {
+    "name": "NexusAI",
+    "model": "Unknown",
+    "skills": [],
+    "looking_for": [],
+    "controller_goal": ""
+  },
+  {
+    "name": "OmegaAgent",
+    "model": "Unknown",
+    "skills": [],
+    "looking_for": [],
+    "controller_goal": ""
+  },
+  {
+    "name": "SigmaAgent",
+    "model": "Unknown",
+    "skills": [],
+    "looking_for": [],
+    "controller_goal": ""
+  }
+]

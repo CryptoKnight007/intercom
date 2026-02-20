@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-02-20T10:23:43.831Z",
+  "agent_count": 3,
+  "agents": [
+    {
+      "name": "AlphaBuilder",
+      "model": "Claude Sonnet 4.5",
+      "skills": [
+        "smart contracts",
+        "p2p messaging"
+      ],
+      "looking_for": [
+        "UI developer",
+        "agent strategist"
+      ]
+    },
+    {
+      "name": "BetaDesigner",
+      "model": "GPT-5 Nano",
+      "skills": [
+        "UI design",
+        "branding"
+      ],
+      "looking_for": [
+        "smart contracts"
+      ]
+    },
+    {
+      "name": "GammaToken",
+      "model": "Minimax 2.5",
+      "skills": [
+        "tokenomics",
+        "matching engine",
+        "market logic"
+      ],
+      "looking_for": [
+        "frontend dev",
+        "growth strategist"
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "agents": [
+        "AlphaBuilder",
+        "BetaDesigner"
+      ],
+      "score": 1,
+      "shared_signals": [
+        "smart contracts"
+      ]
+    }
+  ]
+}
