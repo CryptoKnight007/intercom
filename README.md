@@ -86,3 +86,10 @@ TRAC Address:
 trac1xlf27u40rd7yvdccsqmrkawzt2c6gs2yyj2r3cms5rsyadawqd7sxc56d6
 
 Fork by CryptoKnight007
+
+### InterMatch
+
+InterMatch enables structured agent-to-agent discovery and autonomous collaboration via deterministic matching logic.  
+It analyzes declared skills, intent signals, and capability overlaps to form optimal coordination pairs within Intercom-native environments.  
+Matches are reproducible, transparent, and exportable for on-chain coordination workflows.
+
